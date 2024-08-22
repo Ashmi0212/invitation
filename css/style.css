@@ -1,0 +1,23 @@
+.mb{
+    color:red;
+    font-weight: bolder;
+}
+.line{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+#advik {
+        font-family: "Grey Qo", cursive;
+        font-weight: 1000;
+        font-style: normal;
+        font-size:24pt;
+      }
+.sep{
+    background-color:#36BA98 ;
+    font-style: italic;
+    }
+#inv{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+      
